@@ -7,8 +7,8 @@ body{
 
 h1
 {
-    color: rgb(42, 93, 202);
-    text-shadow: black;
+    color: black;
+    text-shadow: yellow;
     font-size: 50px;
     text-align: center;
 }
